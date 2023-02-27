@@ -1,0 +1,20 @@
+Python:
+https://www.python.org/
+Python é uma linguagem de programação que te permite integrar sistemas de uma forma mais eficiente. Será utilizado para aprender-mos a desenvolver, desde lógica até aplicações mais avançadas.
+
+Git:
+https://git-scm.com/
+Git é uma plataforma open-source, grátis, que te permite controlar sistemas de forma escalável com velocidade e eficiência. Será utilizado para o versionamento e atualização de nossas aplicações.
+
+VSCODE:
+https://code.visualstudio.com/
+VSCODE é uma interface de desenvolvimento integrada que te permite criar e editar código de forma gratuíta. Será utilizado para fazer nossas aplicações e editá-las.
+
+Sqlite browser:
+https://sqlitebrowser.org/
+Sqlite é uma plataforma que te permite projetar, criar e gerenciar bancos de dados. Será utlizado para gerenciar os bancos de dados de nossas aplicações.
+
+Navegadores (Chrome):
+https://www.google.com/intl/pt-BR/chrome/
+Chrome é um navegador web gratuíto que será utilizado para testar as aplicações feitas durante as aulas.
+
